@@ -20,7 +20,11 @@
 <p align="left">
 💌  Quer falar comigo? Me mande mensagem em alguma destes contatos abaixo!
 </p>
-<b>evair.silva007@gmail.com</b> <b>https://www.linkedin.com/in/evairsilva/</b>
+<a href="mailto:evair.silva007@gmail.com" alt="Gmail">
+<img src="https://img.shields.io/badge/-evair.silva007@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=evair.silva007@gmail.com" /></a>
+  
+<a href="https://www.linkedin.com/in/evairsilva" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Evair%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evairsilva/" /></a>
  </p>
  
  
