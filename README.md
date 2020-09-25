@@ -18,9 +18,9 @@
 </p>
 
 <p align="left">
-💌  Quer falar comigo? Me mande mensagem em alguma dessas redes sociais abaixo!
+💌  Quer falar comigo? Me mande mensagem em alguma destes contatos abaixo!
 </p>
-  
+<b>evair.silva007@gmail.com</b> <b>https://www.linkedin.com/in/evairsilva/</b>
  </p>
  
  
