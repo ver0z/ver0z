@@ -10,11 +10,11 @@
 </p>
 
 <p align="left">
-  🌈 Estudando atualmente: <strong>JavaScript e Python.</strong>
+  🌈 Estudando atualmente: <strong>Flutter e Python.</strong>
 </p>
 
 <p align="left">
-  🔥 Pretende aprender: <strong> Vue.JS, React Native, Flutter.</strong>
+  🔥 Pretende aprender: <strong> Vue.JS.</strong>
 </p>
 
 <p align="left">
