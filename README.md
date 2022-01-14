@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🚀 Skills: <strong>HTML5, CSS3, Matlab, C++, Python.</strong>
+  🚀 Skills: <strong>Pytorch, TensorFlow, SKlearn, Matlab, C++, Python.</strong>
 </p>
 
 <p align="left">
