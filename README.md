@@ -17,12 +17,16 @@
   🔥 Pretende aprender: <strong> Vue.JS.</strong>
 </p>
 
-<p align="left">
 <div style="display: inline_block">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ver0z&layout=compact&langs_count=7&cache_seconds=1800"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ver0z"/>
 
+  
+
+<p align="left">
+
+  
 </div>
 </p>
 <a href="mailto:evair.silva007@gmail.com" alt="Gmail">
@@ -31,5 +35,7 @@
 <a href="https://www.linkedin.com/in/evairsilva" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Evair%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evairsilva/" /></a>
  </p>
+ 
+ 
  
  
