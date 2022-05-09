@@ -18,7 +18,12 @@
 </p>
 
 <p align="left">
-💌  Quer falar comigo? Me mande mensagem em algum destes contatos abaixo!
+<div style="display: inline_block">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ver0z&layout=compact&langs_count=7&cache_seconds=1800"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ver0z"/>
+
+</div>
 </p>
 <a href="mailto:evair.silva007@gmail.com" alt="Gmail">
 <img src="https://img.shields.io/badge/-evair.silva007@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=evair.silva007@gmail.com" /></a>
