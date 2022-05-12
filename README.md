@@ -3,6 +3,7 @@
 <p align="left">
   Olá, meu nome é Evair, sou <strong>Machine Learning Researcher</strong>.<br>
   Estou cursando Mestrado em Ciência da Computação com foco em Aprendizagem de Máquina e Mineração.
+  Machine Learning Engineer na PocketFisio
 </p>
 
 <p align="left">
