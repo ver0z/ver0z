@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador IuriCode">
 
 <p align="left">
-  Olá, meu nome é Evair, sou <strong>Machine Learning Researcher</strong>.<br>
+  Olá, meu nome é Evair, trabalho como Machine Learning Engineer na PocketFisio
   Estou cursando Mestrado em Ciência da Computação com foco em Aprendizagem de Máquina e Mineração.
-  Machine Learning Engineer na PocketFisio
+  
 </p>
 
 <p align="left">
