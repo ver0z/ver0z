@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador IuriCode">
 
 <p align="left">
-  Olá, meu nome é Evair, trabalho como Machine Learning Engineer na PocketFisio
-  Estou cursando Mestrado em Ciência da Computação com foco em Aprendizagem de Máquina e Mineração.
+Hello, my name is Evair. I work as a Machine Learning Researcher at PocketFisio. 
+I am currently pursuing a Master's degree in Computer Science with a focus on Machine Learning and Mining.
   
 </p>
 
@@ -11,11 +11,11 @@
 </p>
 
 <p align="left">
-  🌈 Estudando atualmente: <strong>Flutter e Python.</strong>
+  🌈 Studying: <strong>React e Python.</strong>
 </p>
 
 <p align="left">
-  🔥 Pretende aprender: <strong> Vue.JS.</strong>
+  🔥 I intend to learn: <strong> Vue.JS.</strong>
 </p>
 
 <div style="display: inline_block">
