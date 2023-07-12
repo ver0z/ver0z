@@ -15,7 +15,7 @@ I am currently pursuing a Master's degree in Computer Science with a focus on Ma
 </p>
 
 <p align="left">
-  🔥 I intend to learn: <strong> Vue.JS.</strong>
+  🔥 I intend to learn: <strong> Lua and Julia.</strong>
 </p>
 
 <div style="display: inline_block">
