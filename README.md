@@ -7,7 +7,7 @@ I am currently pursuing a Master's degree in Computer Science with a focus on Ma
 </p>
 
 <p align="left">
-  🚀 Skills: <strong>Pytorch, TensorFlow, SKlearn, Matlab, C++, Python.</strong>
+  🚀 Skills: <strong>Pytorch, TensorFlow, SKlearn, Matlab, Python.</strong>
 </p>
 
 <p align="left">
