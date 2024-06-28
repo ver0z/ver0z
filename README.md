@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador IuriCode">
 
 <p align="left">
-Hello, my name is Evair. I work as a Machine Learning Researcher at PocketFisio. 
+Hello, my name is Evair. 
 I am currently pursuing a Master's degree in Computer Science with a focus on Machine Learning and Mining.
   
 </p>
