@@ -11,7 +11,7 @@ I am currently pursuing a Master's degree in Computer Science with a focus on Ma
 </p>
 
 <p align="left">
-  🌈 Studying: <strong>React e Python.</strong>
+  🌈 Studying: <strong>React, JavaScript e Python.</strong>
 </p>
 
 <p align="left">
